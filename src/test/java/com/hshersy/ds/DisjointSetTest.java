@@ -1,4 +1,4 @@
-package com.hshersy;
+package com.hshersy.ds;
 
 import org.junit.jupiter.api.Test;
 

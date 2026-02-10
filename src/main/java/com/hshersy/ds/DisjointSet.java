@@ -1,4 +1,4 @@
-package com.hshersy;
+package com.hshersy.ds;
 
 import java.util.HashMap;
 import java.util.List;
